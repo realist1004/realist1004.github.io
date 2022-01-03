@@ -21,9 +21,9 @@ title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome 
 subtitle                 :  # 타이틀 아래에 나올 작은 글씨
 name                     : "익명" # 맨 하단 이름 찍히는 영역
 description              : "JAVA와 Spring Boot 혹은 Sever등 다양한 개발을 공부하는 블로그" # Meta 태그에 들어가는 영역
-url                      : "realist1004.github.io" # GitBlog 호스트 주소
+url                      : "https://realist1004.github.io" # GitBlog 호스트 주소
 baseurl                  : # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
-repository               : "realist1004/realist1004.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/realist1004/realist1004.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   :  # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
 logo                     :  # 타이틀 옆에 작게 들어갈 이미지. # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           :  "나만의 기록공간" # 홈페이지 최 상탄에 들어갈 타이틀
