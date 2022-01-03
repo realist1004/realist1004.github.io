@@ -115,10 +115,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:wnfkrlthsus@gmail.com
+      # url: mailto:wnfkrlthsus@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/realist1004/"
+     #  url: "https://github.com/realist1004/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -137,13 +137,13 @@ footer:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
-        url: wnfkrlthsus@gmail.com
+      #  url: wnfkrlthsus@gmail.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/realist1004"
+      #  url: "https://github.com/realist1004"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
