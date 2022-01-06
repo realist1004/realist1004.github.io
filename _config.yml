@@ -292,7 +292,7 @@ defaults:
       comments: true
       share: true
       related: true
-      popular: false
+      
 
  # _pages // Docs 폴더의 _config.yml를 참고했습니다.
   - scope:
